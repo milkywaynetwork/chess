@@ -8,14 +8,14 @@
   }
 
 .Header{
-    background-color: #3b3b3b;
+    background-color: #000;
     padding: 2%;
     font-family: 'Montserrat', sans-serif;    color: whitesmoke;
     font-weight: 100;
 }
 
 .Footer{
-    background-color: #3b3b3b;
+    background-color: #000;
     padding: 2%;
     font-family: 'Montserrat', sans-serif;    color: whitesmoke;
     font-weight: 100;
@@ -165,7 +165,7 @@
     left: 0;
     right: 0;
     z-index: 10;
-    background-color: #f2f2f2;
+    background-color: #000;
     box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.4);
     animation-name: PopUp;
     animation-duration: 1s;
@@ -173,7 +173,7 @@
 }
 .PopUpHeader{
     position: relative; 
-    background-color: #51b035; 
+    background-color: #000; 
     height: auto; 
     padding: 5%;
     color: white; 
@@ -357,7 +357,7 @@ nav {
     align-items: center;
     list-style: none;
     min-height: 11vh;
-    background-color: #3b3b3b;
+    background-color: #000;
     font-family: 'Montserrat', sans-serif;
 }
 
